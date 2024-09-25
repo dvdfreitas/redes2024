@@ -12,6 +12,14 @@ node - https://nodejs.org/en/download/current
 
 VS Code - https://code.visualstudio.com/
 
+---
+
+### Plugins do VS Code
+
+- PHP Intelephense
+
+  - https://marketplace.visualstudio.com/items?itemName=bmewburn.vscode-intelephense-client
+
 ## Instalação 
 
 ### Laravel
@@ -64,3 +72,48 @@ Finalmente, deverá executar as migrações:
 ```bash
 php artisan migrate
 ```
+
+## Criação de um modelo 
+
+Para implementar o modelo visto nas aulas ```Teacher``` deverá utilizar o comando:
+
+```bash
+php artisan make:model Teacher
+```
+
+No entanto, como vimos, vamos criar sempre uma migração (m), factory (f), Seeder (s), e controlador. Pelo que podemos usar a opção ```-mfcs```.
+
+```bash
+php artisan make:model Teacher -mcfs
+```
+
+# Trabalho
+
+Cada aluno contribuíra com uma parte do site. Os trabalhos atribuídos são:
+
+- Notícias (Inês)
+
+- Contratos (Calaia)
+
+- Alunos (Rafael)
+
+- Bibliotecas (Salvador(
+
+- Documentos (Mafalda)
+
+- Selos (Sá)
+
+- Projetos (Kayque)
+
+- Órgãos 
+
+- Agenda (Sousa)
+
+- Cartazes
+
+- Vivacidade
+
+- Diretores de turma
+
+- Manuais
+
