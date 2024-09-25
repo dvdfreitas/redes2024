@@ -16,19 +16,19 @@ VS Code - https://code.visualstudio.com/
 
 ### Laravel
 
-Vamos instalar um projeto que iremos chamar ```redes```. Note que o nome do projeto é o nome da pasta que será criada e deverá estar relacionado com o nome do seu projeto. 
+Vamos instalar um projeto que iremos chamar ```redes2024```. Note que o nome do projeto é o nome da pasta que será criada e deverá estar relacionado com o nome do seu projeto. 
 
 ```bash
-composer create-project laravel/laravel redes
+composer create-project laravel/laravel redes2024
 ```
 
 ### Jetstream
 
 De seguida deverá entrar na pasta do projeto:
 
-```cd redes```
+```cd redes2024```
 
-Já dentro da pasta `redes` deverá executar o seguinte comando:
+Já dentro da pasta `redes2024` deverá executar o seguinte comando:
 
 ```bash
 composer require laravel/jetstream
