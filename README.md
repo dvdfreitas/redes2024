@@ -54,7 +54,7 @@ npm run build
 Para que o laravel use a base de dados correta, deverá alterar o ficheiro ```.env``` que se encontra na raiz do projeto e modificar a seguinte linha para o nome da base de dados. Deverá usar o nome adequado ao seu projeto.
 
 ```php
-DB_DATABASE=redes
+DB_DATABASE=redes2024
 ```
 
 Nas últimas versões do Laravel, caso a base de dados não exista, o Laravel irá criá-la.
