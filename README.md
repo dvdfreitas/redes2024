@@ -20,6 +20,11 @@ VS Code - https://code.visualstudio.com/
 
   - https://marketplace.visualstudio.com/items?itemName=bmewburn.vscode-intelephense-client
 
+### Atalhos do VS Code
+
+
+| Ctrl + P | Procura um ficheiro pelo nome |
+
 ## Instalação 
 
 ### Laravel
