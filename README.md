@@ -22,7 +22,7 @@ VS Code - https://code.visualstudio.com/
 
 ### Atalhos do VS Code
 
-| --- | --- |
+
 | Ctrl + P | Procura um ficheiro pelo nome |
 | --- | --- |
 
